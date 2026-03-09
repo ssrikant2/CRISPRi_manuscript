@@ -1,2 +1,2 @@
-# Katsano Manuscript Github
+# Katsano Manuscript Github Repository
 This repository includes all code and data used for Rule Set 3i development and other analyses presented in the manuscript "Optimized parameters for Cas9 CRISPR interference library design". Note that in order to reproduce this code, it is necessary to unzip some data files after cloning the repository. To obtain Rule Set 3i scores for guides of interest, please use [CRISPick](https://portals.broadinstitute.org/gppx/crispick/public).
